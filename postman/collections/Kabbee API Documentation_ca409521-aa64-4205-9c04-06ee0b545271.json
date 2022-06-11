@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Details about a user",
+			"name": "Details about a user For Test",
 			"id": "efe1119e-919c-42ba-8644-7632a4979154",
 			"request": {
 				"method": "GET",
